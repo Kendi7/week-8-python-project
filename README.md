@@ -55,4 +55,15 @@ total_death_case = covid_data['Deaths'].sum()
 total_confirmed_case = covid_data['Confirmed'].sum()
 death_rate = total_death_case / total_confirmed_case
 print(f"Death Rate: {death_rate:.2%}")
+```
+---
+
+## How to Run
+
+1. Clone the repository or download the notebook file.
+2. Place the datasets (`country_wise_latest.csv` and `country_vaccinations.csv`) in the same directory as the notebook.
+3. Open the notebook in Jupyter Notebook or any compatible IDE.
+4. Run the cells sequentially to execute the analysis.
+
+---
 
