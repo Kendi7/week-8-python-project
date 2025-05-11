@@ -44,6 +44,28 @@ This dataset contains vaccination data for each country. Key columns include:
 - **total_vaccinations**: Total vaccinations administered.
 - **people_vaccinated**: Total number of people vaccinated.
 - **people_fully_vaccinated**: Total number of people fully vaccinated.
+---
+---
+
+## Key Findings
+
+### COVID-19 Data Findings
+1. **Regional Analysis**:
+   - The **Americas region** recorded the highest death toll globally.
+   - The **Western Pacific region** reported the lowest number of deaths.
+
+2. **Country-Specific Analysis**:
+   - The **United States** had the highest number of deaths on a country-by-country basis.
+
+3. **Africa-Specific Analysis**:
+   - In Africa, **South Africa** reported the highest death toll across the continent.
+---
+
+### 💉 Vaccination Data Findings
+1. **Vaccination Trends**:
+   - On the final day captured in the vaccination dataset, **Niue** had the highest proportion of vaccinated population.
+
+---
 
 ## Additional Insights
 
