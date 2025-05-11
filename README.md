@@ -87,4 +87,8 @@ print(f"Death Rate: {death_rate:.2%}")
 4. Run the cells sequentially to execute the analysis.
 
 ---
+## Notes
+- Dataset was obtained in  Kaggle dataset.
+- Further exploration and visualization are encouraged for more in-depth insights.
+
 
