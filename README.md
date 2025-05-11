@@ -1,5 +1,4 @@
-# Data Analysis project
-### This projected involves analysis of covid19 data to gain various insights
+
 # COVID-19 Data Analysis
 
 ## Overview
